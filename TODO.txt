@@ -1,0 +1,17 @@
+notatki
+-może być już algorytm na obecnym etapie. pogłos/barwa/IR 
+
+TODO
+--------------------------------------------------------------------
+
+-Wstęp historyczny? przetwarzanie sygnałów
+-cyfrowe przetwarzanie sygnałów - zalety - przewaga nad analogiem
+
+-opis działania algorytmu - dużo teorii nawet przy FFT
+--------------------------------------------------------------------
+		opisać moduły programu z osobna 
+		na obronie będze można zaprezentować efekt działania programu
+		czyli np pliki w audacity IR/ORYGINAŁ/EFEKT
+		
+--------------------------------------------------------------------
+-parafrazować teorię z książek
