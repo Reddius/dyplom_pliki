@@ -15,3 +15,17 @@ TODO
 		
 --------------------------------------------------------------------
 -parafrazować teorię z książek
+
+
+--------------------------------------------------------------------
+NOWE
+--------------------------------------------------------------------
+
+WSTĘP
+	- We wstępie trochę o machine learning z tego filmiku na YT
+MACHINE LEARNING
+	- W rozdziale o Machine Learning dopisać coś o tym z tymi obrazkami
+PODSUMOWANIE
+	- Co się udał zrobić
+	- Jakie trudności?
+	- MOżliwości
