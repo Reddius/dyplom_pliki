@@ -23,9 +23,14 @@ NOWE
 
 WSTĘP
 	- We wstępie trochę o machine learning z tego filmiku na YT
-MACHINE LEARNING
+PRACA
 	- W rozdziale o Machine Learning dopisać coś o tym z tymi obrazkami
+	- geometria pomieszczenia - rezonanse 
 PODSUMOWANIE
 	- Co się udał zrobić
 	- Jakie trudności?
 	- MOżliwości
+	
+dB FS na dB SPL
+
+dopisać definicje MLS itd we wstępie teoretycznym
